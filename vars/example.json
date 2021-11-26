@@ -1,0 +1,13 @@
+{
+    "nips": [
+        {
+            "Destination": "i-0a1b2c3d4e5f",
+            "DestinationIp": "",
+            "DestinationPort": "",
+            "Protocol": "tcp",
+            "Source": "i-0a1b2c3d4e5f",
+            "SourceIp": "",
+            "Tags:Name": "Example path name tag"
+        }
+    ]
+}
